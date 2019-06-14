@@ -1,0 +1,3 @@
+<launch>
+<node name="helloworld" pkg="my_package" type="my_executable1" output="screen"/> 
+</launch>
